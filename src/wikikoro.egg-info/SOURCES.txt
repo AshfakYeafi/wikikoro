@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/wikikoro/__init__.py
+src/wikikoro/wiki.py
+src/wikikoro.egg-info/PKG-INFO
+src/wikikoro.egg-info/SOURCES.txt
+src/wikikoro.egg-info/dependency_links.txt
+src/wikikoro.egg-info/not-zip-safe
+src/wikikoro.egg-info/requires.txt
+src/wikikoro.egg-info/top_level.txt
